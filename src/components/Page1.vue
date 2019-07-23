@@ -1,15 +1,17 @@
 <template>
-  <div class="hello">
+  <div class="Page1">
     <h1>{{ msg }}</h1>
+
+    <a href="/#/PageIndex/page2">page 2</a>
   </div>
 </template>
 
 <script>
   export default {
-    name: 'Hello',
+    name: 'Page1',
     data () {
       return {
-        msg: 'Hello Vue.js!'
+        msg: 'Page One'
       }
     }
   }

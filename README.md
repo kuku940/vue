@@ -1,30 +1,28 @@
-# vue
+## vue介绍
 
-> A Vue.js project
+### 目录结构
+![vusjs工程目录](./static/images/vuejs工程目录.jpg)
 
-## Build Setup
+    package.json - 依赖信息
+    config - 项目初始化配置
+    build - webpack初始化配置
+    index.html - 预设首页
+    src目录 - 工程目录
 
-``` bash
-# install dependencies
-npm install
+入口类： build/webpack.base.conf.js类
 
-# serve with hot reload at localhost:8080
-npm run dev
+    entry: {
+      app: './src/main.js'
+    }
+    
+### vuejs结构图
 
-# build for production with minification
-npm run build
+vuejs核心：组件+路由
 
-# build for production and view the bundle analyzer report
-npm run build --report
+![vuejs结构图](./static/images/vuejs结构图.jpg)
 
-# run unit tests
-npm run unit
 
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## 教程
+[包学会之浅入浅出Vue.js：开学篇](https://cloud.tencent.com/developer/article/1020337)
+[包学会之浅入浅出Vue.js：升学篇](https://cloud.tencent.com/developer/article/1020338)
+[包学会之浅入浅出Vue.js：结业篇](https://cloud.tencent.com/developer/article/1020416)
