@@ -23,6 +23,6 @@ vuejs核心：组件+路由
 
 
 ## 教程
-[包学会之浅入浅出Vue.js：开学篇](https://cloud.tencent.com/developer/article/1020337)
-[包学会之浅入浅出Vue.js：升学篇](https://cloud.tencent.com/developer/article/1020338)
-[包学会之浅入浅出Vue.js：结业篇](https://cloud.tencent.com/developer/article/1020416)
+[包学会之浅入浅出Vue.js：开学篇](https://cloud.tencent.com/developer/article/1020337)  
+[包学会之浅入浅出Vue.js：升学篇](https://cloud.tencent.com/developer/article/1020338)  
+[包学会之浅入浅出Vue.js：结业篇](https://cloud.tencent.com/developer/article/1020416)  
